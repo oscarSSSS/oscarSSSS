@@ -15,4 +15,4 @@
 [<img align="left" alt="Oscar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/oscar-sorto-193669276
