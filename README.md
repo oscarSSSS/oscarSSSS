@@ -7,7 +7,7 @@ Information Technology Projects:</h2>
   - [osTicket: Post-Installation Configuration](https://github.com/oscarSSSS/OSticket-Postinstall)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/oscarSSSS/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/oscarSSSS/ADAzure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/oscarSSSS/azure-network-protocols)
 
 Connect with me:</h2>
